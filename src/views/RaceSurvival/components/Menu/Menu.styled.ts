@@ -21,7 +21,7 @@ export const Screen = styled.div<ScreenProps>`
   height: 100%;
   display: flex;
   align-items: center;
-  background: url('./race-survival/img/background-menu.jpg');
+  background: url('./img/background-menu.jpg');
   background-position: center center;
   background-size: cover;
   flex-direction: column;
@@ -87,7 +87,7 @@ export const Information = styled.div`
 
 export const BackgroundAnimated = styled.div`
   height: 100%;
-  background: url('./race-survival/img/background-menu.jpg');
+  background: url('./img/background-menu.jpg');
   background-position: center center;
   background-size: cover;
   filter: blur(5px);

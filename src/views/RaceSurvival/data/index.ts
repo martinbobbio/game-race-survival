@@ -1,12 +1,12 @@
 export const paths = {
   textures: {
-    car: '../race-survival/sprites/cars.png',
-    background: '../race-survival/sprites/speedrace.jpg',
+    car: '../sprites/cars.png',
+    background: '../sprites/speedrace.jpg',
   },
   sounds: {
-    car: '../race-survival/sound/car.mp3',
-    explosion: '../race-survival/sound/explosion.mp3',
-    music: '../race-survival/sound/music.mp3',
+    car: '../sound/car.mp3',
+    explosion: '../sound/explosion.mp3',
+    music: '../sound/music.mp3',
   },
 };
 
